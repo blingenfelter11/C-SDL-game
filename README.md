@@ -1,1 +1,1 @@
-# C++ SDL Rougelike RPG
+# Cpp and SDL Rougelike RPG
